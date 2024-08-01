@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "NLP_Application", "NLP_Application.pyproj", "{A8DB4200-0D4F-48C0-934B-8DA3706AE12C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8DB4200-0D4F-48C0-934B-8DA3706AE12C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8DB4200-0D4F-48C0-934B-8DA3706AE12C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A7ABC11-FBA9-456B-B19D-659EA35C1923}
+	EndGlobalSection
+EndGlobal
